@@ -1,0 +1,12 @@
+
+# MounRiver Studio installer and archives
+MounRiver_Studio_Setup_V2.5.0/
+MounRiver_Studio_Setup_V2.5.0.zip
+
+# KiCad backups and temporary files
+gamegame-backups/
+*.kicad_prl
+*.lck
+fp-info-cache
+*.bak
+#auto_saved_files#
